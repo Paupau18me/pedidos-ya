@@ -1,5 +1,5 @@
-
 [crear usuario][coneccion DB][cambiar colores];
 {Eliminar usuario};
 [modificar funcionalidad]
 [agregar icono]
+[integracion con goolge y facebook]
