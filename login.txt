@@ -1,4 +1,4 @@
-[crear usuario];
+[crear usuario][coneccion DB];
 {Eliminar usuario};
 [modificar funcionalidad]
 [agregar icono]
