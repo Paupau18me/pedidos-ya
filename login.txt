@@ -1,3 +1,4 @@
 [crear usuario];
 {Eliminar usuario};
 [modificar funcionalidad]
+[agregar icono]
